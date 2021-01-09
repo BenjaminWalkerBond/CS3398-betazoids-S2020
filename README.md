@@ -39,6 +39,10 @@ This is a best effort at creating a recipe recommendation program. For the momen
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
+1. Required: npm installation
+2. cd to the root level directory of the project and run npm install.
+3. Open the root level index.html file on a locally hosted live server of your choosing (VSCode has an easy plugin just for this)
+4. Explore the application and enjoy.
 
 ## Code Examples
 Show examples of usage:
